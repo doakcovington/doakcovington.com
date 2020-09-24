@@ -53,6 +53,12 @@ function App() {
           </Card.Footer>
         </Card>
       </CardDeck>
+
+      <h2>Find Me Here:</h2>
+      <span><a href="https://github.com/doakcovington">Github</a> | </span>
+      <span><a href="https://www.linkedin.com/in/doakcovington/">LinkedIn</a> | </span>
+      <span><a href="https://twitter.com/Dr_Doak">Twitter</a> | </span>
+      <span><a href="https://www.mtbaker.us/snow-report">On A Mountain</a>  </span>
     </div>
   );
 }
