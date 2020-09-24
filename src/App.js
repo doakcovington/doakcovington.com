@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          We Don't Go To Ravenholm
         </a>
       </header>
     </div>
